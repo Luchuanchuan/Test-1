@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>lucc&#39;s notes</title>
+  <subtitle>路曼曼其修远兮，吾将上下而求索</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://lucc.ml/"/>
+  <updated>2016-08-09T02:16:52.540Z</updated>
+  <id>http://lucc.ml/</id>
+  
+  <author>
+    <name>陆钏钏</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>安装hexo中遇到的坑</title>
+    <link href="http://lucc.ml/2016/08/08/hexo%E5%B0%8F%E8%AE%B0/"/>
+    <id>http://lucc.ml/2016/08/08/hexo小记/</id>
+    <published>2016-08-08T08:13:59.000Z</published>
+    <updated>2016-08-09T02:16:52.540Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+    
+    </summary>
+    
+      <category term="Git" scheme="http://lucc.ml/categories/Git/"/>
+    
+    
+      <category term="git" scheme="http://lucc.ml/tags/git/"/>
+    
+      <category term="hexo" scheme="http://lucc.ml/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
